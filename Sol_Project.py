@@ -12,8 +12,3 @@ for angle in range(0,360,15):
     turtle.color(colors[n])
     turtle.seth(angle)
     turtle.circle(100)
-        
-turtle.penup()
-turtle.setpos(150,-270)
-turtle.pendown()
-turtle.ht()
